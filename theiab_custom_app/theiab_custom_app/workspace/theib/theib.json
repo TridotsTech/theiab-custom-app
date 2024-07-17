@@ -1,0 +1,107 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"wtOdVwwezb\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Theib Customisations</span>\",\"col\":12}},{\"id\":\"Yy_xtpRwRW\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Zones\",\"col\":4}},{\"id\":\"zqQiG2ZoXD\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Areas\",\"col\":4}},{\"id\":\"EutN59lHCW\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Outlets\",\"col\":4}},{\"id\":\"-HjKlye3rD\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}},{\"id\":\"z8nqxzES1C\",\"type\":\"card\",\"data\":{\"card_name\":\"Requiements\",\"col\":4}}]",
+ "creation": "2024-07-17 16:51:52.361376",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "THEIB",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Masters",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Zones",
+   "link_count": 0,
+   "link_to": "Zone",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Areas",
+   "link_count": 0,
+   "link_to": "Area",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Outlets",
+   "link_count": 0,
+   "link_to": "Outlet",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Requiements",
+   "link_count": 1,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Requirement Entry",
+   "link_count": 0,
+   "link_to": "Requirement Entry",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-07-17 16:58:19.148559",
+ "modified_by": "Administrator",
+ "module": "Theiab Custom App",
+ "name": "THEIB",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Zones",
+   "link_to": "Zone",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Areas",
+   "link_to": "Area",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Outlets",
+   "link_to": "Outlet",
+   "type": "DocType"
+  }
+ ],
+ "title": "THEIB"
+}

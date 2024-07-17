@@ -12,8 +12,7 @@
   "column_break_tpen",
   "item_group",
   "items_section",
-  "items",
-  "amended_from"
+  "items"
  ],
  "fields": [
   {
@@ -40,15 +39,6 @@
    "options": "Item Stock Details"
   },
   {
-   "fieldname": "amended_from",
-   "fieldtype": "Link",
-   "label": "Amended From",
-   "no_copy": 1,
-   "options": "Requirements Entry",
-   "print_hide": 1,
-   "read_only": 1
-  },
-  {
    "fieldname": "get_all_items",
    "fieldtype": "Button",
    "label": "Get All items"
@@ -64,7 +54,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2024-06-28 15:13:31.015796",
+ "modified": "2024-07-17 16:50:10.008723",
  "modified_by": "Administrator",
  "module": "Theiab Custom App",
  "name": "Requirement Entry",
