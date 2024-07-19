@@ -11,7 +11,7 @@ frappe.ui.form.on("Requirement Entry", {
     get_all_items: function(frm) {
         if (frm.doc.warehouse && frm.doc.item_group) {
             frappe.call({
-                method: "theiab_custom_app.theiab_custom_app.doctype.requirements_entry.requirements_entry.get_data",
+                method: "theiab_custom_app.theiab_custom_app.doctype.requirement_entry.requirement_entry.get_data",
                 args: {
                     warehouse: frm.doc.warehouse,
                     item_group: frm.doc.item_group
